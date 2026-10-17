@@ -1,0 +1,8 @@
+{
+  "name": "Auto Tube",
+  "description": "Control your automated YouTube video creation and uploading pipeline directly from your phone with GitHub Actions workflow triggers.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
